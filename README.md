@@ -32,7 +32,7 @@ _欢迎在 [Issues](https://github.com/shimohq/react-cookbook/issues) 进行相�
 
 * class
   * propTypes
-  * defaultPropTypes
+  * defaultProps
   * constructor
     * event handlers (如不使用[类属性](http://babeljs.io/docs/plugins/transform-class-properties/)语法可在此声明)
   * lifecycle events
